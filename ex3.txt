@@ -1,1 +1,2 @@
-print("New branch")
+print("New branch2")
+Print("It's cool!")
