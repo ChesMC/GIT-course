@@ -10,7 +10,7 @@ namespace ConsoleApplication2
     {
         static void Main(string[] args)
         {
-            Console.Write("This is second excersise");
+            Console.Write("This is second excersise!");
             Console.ReadLine();
         }
     }
