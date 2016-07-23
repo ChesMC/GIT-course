@@ -1,2 +1,3 @@
-print("This is job of mistake. part 2")
-print("add new string")
+print("This is job of mistake. part 2");
+print("add new string");
+print("what's up");
